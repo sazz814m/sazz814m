@@ -12,8 +12,8 @@ I completed my **Higher Secondary education (HSC)** from **SOS Hermann Gmeiner C
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NajibHos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazz814m&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sazz814m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Featured Repositories
