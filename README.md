@@ -1,6 +1,6 @@
 # Hi, I'm Sazzad Hossain Siam 👋
 
-I’m currently exploring new technologies, upgrading my skills, and seeking opportunities to grow at software development career. My main focus is **front-end development** with React and Next.js, and I’m expanding into **full-stack development** to **contribute,** **upgrade my skills,** and **future opportunities.**
+I’m currently exploring new technologies, upgrading my skills, and seeking opportunities to grow at my software engineering career. My main focus is **front-end development** with React and Next.js, and I’m expanding into **full-stack development** to **contribute,** **upgrade my skills,** and **future opportunities.**
 I completed my **Higher Secondary education (HSC)** from **SOS Hermann Gmeiner College, Bogura.** What drives me is my **passion for coding, problem-solving, and building real-world tools that make a difference.**
 
 
@@ -19,9 +19,13 @@ I completed my **Higher Secondary education (HSC)** from **SOS Hermann Gmeiner C
 ## Featured Repositories
 
 Here are a few of my most notable repositories:
-### Not available right now.
+
+#### Not available right now.
+
 
 Feel free to explore my repositories for more!
 
+
 ## Connect with Me
-### Not available right now.
+
+#### Not available now.
