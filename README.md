@@ -1,29 +1,38 @@
-# Hi, I'm Sazzad Hossain Siam 👋
+# ⚡ MD SAZZAD HOSSAIN SIAM
 
-I’m currently exploring new technologies, upgrading my skills, and seeking opportunities to grow at software development career. My main focus is **front-end development** with React and Next.js, and I’m expanding into **full-stack development** to **contribute,** **upgrade my skills,** and **future opportunities.**
-I completed my **Higher Secondary education (HSC)** from **Syed Ahmed College, Bogura.** What drives me is my **passion for coding, problem-solving, and building real-world tools that make a difference.**
+``
++ CSE Student
++ Data Science Explorer
++ AI & Cybersecurity Enthusiast
++ Founder of RAY
++ Future Tech Entrepreneur
+```
 
-## My skills
+---
 
-- **Soft Skills**: Problem Solving, Communication, Teamwork, Discipline, Time Management, Continuous Learning.
+## 🚀 About Me
 
+Hi 👋  
+I'm a Computer Science student from Bangladesh passionate about technology, innovation, leadership, and building projects that create real-world impact.
 
-## My GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazz814m&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sazz814m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧠 Currently Learning
 
+- Python
+- Data Science
+- Machine Learning
+- Cybersecurity
+- Open Source
 
-## Featured Repositories
+---
 
-Here are a few of my most notable repositories:
+## ⚙️ Tech Stack
 
-#### Not available right now.
+Python • Git • SQL • AI • Linux • Data Analytics
 
+---
 
-Feel free to explore my repositories for more!
+## 🌍 Vision
 
-
-## Connect with Me
-
-#### Not available now.
+Building modern tech solutions for the future.
